@@ -7,7 +7,7 @@
     "console": "^0.7.2",
     "csvtojson": "^2.0.10",
     "fast-csv": "^4.3.1",
-    "fastify": "^3.0.0",
+    "fastify": "^3.29.4",
     "fastify-static": "^3.1.0",
     "node-fetch": "^2.6.0",
     "puppeteer": "^3.3.0",
